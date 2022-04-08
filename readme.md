@@ -34,6 +34,12 @@
 # Nützliche VS Code Extensions
 - https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser
 
+# Nützliche Short-uts
+- ALT+STRG+Pfeiltasten --> Multicursor
+- ALT+Click --> Multicursor
+- STRG+D --> Mark next occurence
+- STRG+SHIFT+L --> Mark all occurences
+
 
 
 
